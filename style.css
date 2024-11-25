@@ -11,7 +11,7 @@ header {
 }
 
 .hero {
-  background: no-repeat center/cover url("img/hero.jpeg");
+  background: no-repeat center/cover url("hero.jpeg");
   min-height: 50vh;
 }
 
